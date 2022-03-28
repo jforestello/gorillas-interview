@@ -1,0 +1,6 @@
+graphql:
+  packages:
+    - "org.jforestello.gorillas_interview"
+  playground:
+    enabled: true
+
